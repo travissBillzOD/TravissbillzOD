@@ -2,7 +2,7 @@
 import './App.css';
 import Home from './Home';
 import Songs from './Songs';
-import { Route,Routes } from 'react-router-dom';
+import {  Route,Routes } from 'react-router-dom';
 
 function App() {
   return (
