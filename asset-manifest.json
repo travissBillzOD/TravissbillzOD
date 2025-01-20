@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TravissbillzOD/static/css/main.cc0ad60f.css",
+    "main.js": "/TravissbillzOD/static/js/main.689b2932.js",
+    "static/media/tie.jpg": "/TravissbillzOD/static/media/tie.4cbb466879c5d1d876f6.jpg",
+    "static/media/shoe.jpg": "/TravissbillzOD/static/media/shoe.cade6582958e1819fbff.jpg",
+    "static/media/gvng.jpg": "/TravissbillzOD/static/media/gvng.911a2c60a80d2f1b0d03.jpg",
+    "static/media/toper.jpg": "/TravissbillzOD/static/media/toper.9bb7a6076c4f1d3da773.jpg",
+    "static/media/pink.jpg": "/TravissbillzOD/static/media/pink.20150110c19ea51dde0d.jpg",
+    "static/media/stage.jpg": "/TravissbillzOD/static/media/stage.dd83f27291d2d80ff646.jpg",
+    "static/media/BandW.jpg": "/TravissbillzOD/static/media/BandW.59eefc6362fbb62a5548.jpg",
+    "static/media/audiomack-seeklogo.png": "/TravissbillzOD/static/media/audiomack-seeklogo.e83ffbc99e410ffeeb45.png",
+    "index.html": "/TravissbillzOD/index.html",
+    "main.cc0ad60f.css.map": "/TravissbillzOD/static/css/main.cc0ad60f.css.map",
+    "main.689b2932.js.map": "/TravissbillzOD/static/js/main.689b2932.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc0ad60f.css",
+    "static/js/main.689b2932.js"
+  ]
+}
